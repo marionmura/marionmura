@@ -13,19 +13,13 @@
 </a>  
 </div>  
   
-
-
-
-### Glad to see you here!  
+  ### Glad to see you here!  
 🕹️Hi, I'm a student at the MMI departement from Montbéliard. I love to draw and code some things sometimes. 
 
 🐙My biggest project from the moment is the mobile website https://mind-interest.marionmura.fr (yes it's good only on phones).
 
 🐧I really love to draw to don't hesitate to see my art on behance !  
   
-
-<br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -48,11 +42,7 @@
 <img src="https://medias.marionmura.fr/great.gif" align="center" style="width: 100%" />
 </div>  
 
-
 </td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -65,15 +55,3 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=marionmura&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marionmura&hide_border=true&layout=compact" align="left" style="width: 100%" />
