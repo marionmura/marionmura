@@ -21,29 +21,6 @@
 🐧I really love to draw to don't hesitate to see my art on behance !  
   
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🦕 I’m currently working on [my personal project for the semester](https://github.com/MMI-SAE-105/2022-sae105-projet-marionmura)  
-  
-
-- 🌱 I’m currently practicing HTML and CSS  
-  
-
-- 🦖 Ask me about my future drawing only I'm not good to code smth  
-  
-
-- 🦜 Fun fact: I sleep a lot  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://medias.marionmura.fr/great.gif" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
