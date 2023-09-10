@@ -16,7 +16,8 @@
   ### Glad to see you here!  
 🕹️Hi, I'm a student at the MMI departement from Montbéliard. I love to draw and code some things sometimes. 
 
-🐙My biggest project from the moment is the mobile website https://mind-interest.marionmura.fr (yes it's good only on phones).
+🐙My first semester project from the moment is the mobile website https://mind-interest.marionmura.fr (yes it's good only on phones).
+My second one is https://neocc.marionmura.fr/fr/
 
 🐧I really love to draw to don't hesitate to see my art on behance !  
   
